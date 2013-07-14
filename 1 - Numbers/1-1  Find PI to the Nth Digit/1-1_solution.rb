@@ -1,4 +1,4 @@
-print "Please enter the number of decimal places you would like: "
+puts "Please enter the number of decimal places you would like: "
 user_places = gets
 
 def findPI(decimal_places)
